@@ -1,5 +1,6 @@
 # Khaled-Walid
-
+#Python programmer
+AI Developer
 
 <picture>
   <source
