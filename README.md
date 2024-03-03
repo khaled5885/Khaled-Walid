@@ -19,3 +19,4 @@ AI Developer
 ---
 
 ### :writing_hand: Blog Posts :
+blog-post-workflow.yml
