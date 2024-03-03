@@ -5,7 +5,7 @@
 #Python programmer
 AI Developer
 <div align="center">
-  <img src="[[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)](https://www.google.com.eg/url?sa=i&url=https%3A%2F%2Fquixy.com%2Fblog%2Fwell-paying-tech-jobs-that-dont-require-coding%2F&psig=AOvVaw2tmTNj5r_Z9fdC9F7_5hSq&ust=1709538372200000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD2uu3M14QDFQAAAAAdAAAAABBN)" width="600" height="300"/>
+  <img src="https://github.com/khaled5885/Khaled-Walid/blob/main/Well-paying-Tech-Jobs.jpg" width="600" height="300"/>
 </div>
 
 
