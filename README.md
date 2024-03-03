@@ -23,7 +23,7 @@ AI Developer
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-### :men_technologist: About Me :
+### :man_technologist: About Me :
 
 
 
